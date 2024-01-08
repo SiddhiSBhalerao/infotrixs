@@ -8,6 +8,7 @@ This is my infotrixs internship first task , in this i have created webpage for 
 
 #### Web link 
  http://127.0.0.1:5500/index.html
+ 
  https://github.com/SiddhiSBhalerao/infotrixs.git
 
 ### Snapshot
