@@ -8,7 +8,8 @@ This is my infotrixs internship first task , in this i have created webpage for 
 
 #### Web link 
 
- https://github.com/SiddhiSBhalerao/desktop-tutorial
+ https://github.com/SiddhiSBhalerao/infotrixs.git
+
 ### Snapshot
 
 * Default 
